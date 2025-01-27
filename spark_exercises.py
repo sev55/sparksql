@@ -50,7 +50,7 @@ def assignment3() -> DataFrame:
   '''
   Find the average income and spending for users living in NYC.
   Name the column income as avg_income and spending as avg_spending.
-  Return back the Spark dataframe.
+  Return back the Spark dataframee.
   '''
   return NotImplementedYet
 
